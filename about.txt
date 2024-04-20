@@ -1,0 +1,82 @@
+User Manual for Music Player Software
+
+
+Login Interface:
+Press 1 to sign up:
+
+Allows a new user to create an account to access the Music Player. Users can register and set up their profile.
+
+Press 2 to log in:
+
+Enables existing users to log into their accounts using their credentials (username and password).
+
+Press 3 if you forget your password:
+
+Provides a password recovery or reset option for users who have forgotten their passwords.
+
+Press 4 if you want to use as guest:
+
+Allows users to access limited features of the Music Player without logging in. Guest mode might have restricted functionalities.
+
+Press 0 to Exit:
+
+Closes the Music Player application.
+Main Menu Interface (After Logging In):
++-------------------------------------+
+| Music Player - Main Menu |
+
+1. Add song to playlist
+2. Show all songs with details
+3. Filter songs by criteria
+4. Run playlist
+5. Show playlist
+6. Remove song from playlist
+7. Show playback history
+8. Search and play song
+9. Create new playlist
+10. Delete playlist by name
+E. Log out
++-------------------------------------+
+Add song to playlist:
+
+Enables users to add a new song to their playlist by providing song details (title, artist, album, etc.).
+Show all songs with details:
+
+Displays a comprehensive list of all songs in the music player, including their details.
+
+Filter songs by criteria:
+
+Allows users to filter songs based on specific criteria such as genre, duration, or any other available criteria.
+
+Run playlist:
+
+Starts playing songs in the playlist in the order they're listed.
+Show playlist:
+
+Displays the current songs in the playlist without starting playback.
+
+Remove song from playlist:
+
+Enables users to delete a specific song from the playlist by specifying the song details.
+
+Show playback history:
+
+Displays the history of recently played songs or relevant playback information.
+
+Search and play song:
+
+Allows users to search for a specific song by title or artist and play it directly from the playlist.
+
+Create new playlist:
+
+Lets users create a new, empty playlist for organizing songs separately.
+
+Delete playlist by name:
+
+Enables users to delete a playlist by its name. This action will remove all songs from the specified playlist.
+
+E. Log out:
+
+Logs the current user out of their account and returns to the login interface.
+
+This user manual provides a clear overview of the functionalities available in the Music Player software, both for the login interface and the main menu after logging in. Users can navigate and utilize the features based on these instructions.
